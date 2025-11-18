@@ -12,27 +12,27 @@ I am constantly learning and improving my skills to build beautiful and user-fri
 ## 🚀 What I'm Currently Learning
 - 🌐 *HTML* – Web structure  
 - 🎨 *CSS* – Styling & responsive layouts  
-- ⚡ *JavaScript* – Interactivity & logic  
-- ⚛ *React (in progress)* – Modern UI development  
-- 🖥 *Git & GitHub* – Version control
+- *JavaScript* – Interactivity & logic  
+- *React (in progress)* – Modern UI development  
+- *Git & GitHub* – Version control
 
 ---
 
 ## 🛠 Tech Stack
 *Languages:*  
-🔹 HTML  
-🔹 CSS  
-🔹 JavaScript  
+- HTML  
+- CSS  
+- JavaScript  
 
 *Tools:*  
-🔹 Git & GitHub  
-🔹 VS Code  
-🔹 Chrome DevTools  
+- Git & GitHub  
+- VS Code  
+- Chrome DevTools  
 
 *Interests:*  
-🔹 UI/UX  
-🔹 Responsive Design  
-🔹 Web Performance  
+- UI/UX  
+- Responsive Design  
+- Web Performance  
 
 ---
 
