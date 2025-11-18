@@ -55,7 +55,3 @@ I am constantly learning and improving my skills to build beautiful and user-fri
 ---
 
 ⭐ *If you like my work, feel free to follow*
-
----
-
-⭐ *If you like my work, feel free to follow or star a repo!*
